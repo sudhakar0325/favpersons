@@ -1,0 +1,35 @@
+body {
+    background-color: #F2FD7D;
+    padding: 25px;
+    border: 5px solid red;
+}
+
+.title {
+    text-decoration: underline;
+    font-weight: bold;
+    color:#9D1F15;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+p {
+    color: #28443F;
+    font-size: 20px;
+    text-align: left;
+}
+
+.order {
+    color: #28443F;
+
+
+}
+.im{
+    color: #28443F;
+
+
+}
+.head{
+    color:#9D1F15
+    
+}
